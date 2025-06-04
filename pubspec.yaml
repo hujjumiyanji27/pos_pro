@@ -1,0 +1,39 @@
+name: epos_pro
+description: A VAT-enabled EPOS system for takeaways.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path_provider: ^2.1.1
+  path: ^1.9.0
+  sqflite_common_ffi: ^2.3.0
+  intl: ^0.18.1
+  printing: ^5.12.0
+  pdf: ^3.10.4
+  csv: ^5.0.2
+  # cloud_firestore: ^4.9.0 # or the latest
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.5
+  
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.jpg"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/splash.jpg
+    - assets/images/app_icon.jpg

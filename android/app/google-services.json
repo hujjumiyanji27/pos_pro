@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848281107374",
+    "project_id": "grill-corner-9a0da",
+    "storage_bucket": "grill-corner-9a0da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848281107374:android:43d688effe32f29b30e63f",
+        "android_client_info": {
+          "package_name": "com.example.epos_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5v4VqJzyAQeqkO01TJQmdd2kmufxgww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848281107374:android:88f54bf33273413930e63f",
+        "android_client_info": {
+          "package_name": "com.example.grill_corner_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5v4VqJzyAQeqkO01TJQmdd2kmufxgww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
